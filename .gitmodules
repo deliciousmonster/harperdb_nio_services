@@ -34,3 +34,6 @@
 [submodule "blocks/metrics"]
 	path = blocks/metrics
 	url = git://github.com/nio-blocks/metrics.git
+[submodule "blocks/harperdb_nio_blocks"]
+	path = blocks/harperdb_nio_blocks
+	url = https://github.com/deliciousmonster/harperdb_nio_blocks.git
